@@ -10,3 +10,9 @@ Class Kishkin{
 int a;
 int b;
 
+}
+
+Class Super{
+int c;
+int d;
+}
