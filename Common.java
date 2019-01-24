@@ -5,3 +5,8 @@ class Common {
 		this.id = id;
 	}
 }
+
+Class Kishkin{
+int a;
+int b;
+}
