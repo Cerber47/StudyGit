@@ -14,3 +14,8 @@ int b;
 =======
 } Hello
 >>>>>>> common
+
+Class Super{
+int c;
+int d;
+}
