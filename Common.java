@@ -3,4 +3,4 @@ class Common {
 	Common(int id){
 		this.id = id;
 	}
-}
+} Hello
