@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Common {
 	int id;
 	//bla-bla-bla
