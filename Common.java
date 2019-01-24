@@ -5,13 +5,4 @@ class Common {
 		this.id = id;
 		this.id != id;
 	}
-<<<<<<< HEAD
 }
-
-Class Kishkin{
-int a;
-int b;
-}
-=======
-} Hello
->>>>>>> common
