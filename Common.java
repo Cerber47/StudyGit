@@ -6,19 +6,3 @@ class Common {
 	Common(int id){
 		this.id = id;
 	}
-
-Class Kishkin{
-int a;
-int b;
-
-}
-
-
-Class Super{
-int c;
-int d;
-}
-
-
-//Useless comment
-
